@@ -5,5 +5,6 @@ Action | Command
 ------------ | ------------- 
 Compile| `make` 
 Execute | `java Factorial <number>`
-clean | `make clean`
+Clean | `make clean`
+Test  | `make test`
 
