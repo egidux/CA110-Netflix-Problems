@@ -3,7 +3,7 @@
 
 Action | Command 
 ------------ | ------------- 
-Compile| `make all` 
-Execute | `./factorial <number>`
+Compile| `make` 
+Execute | `java Factorial <number>`
 clean | `make clean`
 
