@@ -3,7 +3,7 @@
 
 Action | Command 
 ------------ | ------------- 
-Compile| `make primes` 
-Execute | `./primes <number>`
-
+Compile| `make all` 
+Execute | `./factorial <number>`
+clean | `make clean`
 

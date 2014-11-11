@@ -15,7 +15,7 @@ int main(int argc, char *argv[] ) {
         return 0;
     }
     int x = atoi(argv[1]);
-    if (x < 0) {
+    if ((x < 0) || (x > 12)) {
         printf("Argument \"%s\" not a natural number or it is too big\n",argv[1]);
         return 0;
     }
